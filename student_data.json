@@ -1,0 +1,69 @@
+{       "students": [
+    {   "Roll-8":
+         {
+         "Name": "Brandon",
+         "MiddleName": null,
+         "Age": 16,
+         "College": "Kings College, London",
+         "Grade": "12th",
+         "GPA": 3.8,
+         "Parent": [
+             
+            {
+                "Father": {
+                    "Name": "Jord",
+                    "Age": 39
+                },
+                "Mother": {
+                    "Name": "Mia",
+                    "Age": 34
+                }
+            }
+            
+         ],
+         "Result": {
+             "10th": "7th",
+             "11th": "5th",
+             "12th": "3rd"
+         }
+     }
+    },
+
+
+    {   "Roll-9":
+        {
+        "Name": "Rams",
+        "MiddleName": null,
+        "Age": 18,
+        "College": "Busan College, London",
+        "Grade": "13th",
+        "GPA": 4.2,
+        "Parent": [
+            
+           {
+               "Father": {
+                   "Name": "Jonny",
+                   "Age": 42
+               },
+               "Mother": {
+                   "Name": "Nila",
+                   "Age": 55
+               }
+           }
+           
+        ],
+        "Result": {
+            "10th": "2nd",
+            "11th": "7th",
+            "12th": "3rd",
+            "13th": "9th"
+        }
+    }
+   }
+
+
+
+
+
+]
+}
